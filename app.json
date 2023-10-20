@@ -17,11 +17,11 @@
     },
     "APP_ID": {
       "description": "كـود ايبي ايـدي〔 App id 〕الصغيـر", 
-      "value": ""
+      "value": "23308690"
     },
     "API_HASH": {
       "description": "كـود ايبي هـاش〔 Api hash 〕..",
-      "value": ""
+      "value": "0a64b7fb353afea42c8847bd5ae5c744"
     },
     "ENV": {
       "description": "لا تغيــرهـــا",
